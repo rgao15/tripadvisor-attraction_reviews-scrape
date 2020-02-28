@@ -1,0 +1,8 @@
+
+Only for educational purposes.
+Use at own risk, it might violate TripAdvisor policies.
+
+Require:
+Python 3
+beautifulsoup4
+selenium chromedriver
